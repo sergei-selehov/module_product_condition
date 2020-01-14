@@ -1,0 +1,43 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
+
+msgctxt "Addons::name::product_condition"
+msgid "Product condition"
+msgstr "Состояние продукта"
+
+msgctxt "Addons::description::product_condition"
+msgid "Module of the open field 'Product condition' in product editing"
+msgstr "Модуль добавляет поле 'Состояние продукта' в редактирование продукта"
+
+msgctxt "Languages::product_condition"
+msgid "Product condition"
+msgstr "Состояние продукта"
+
+msgctxt "Languages::condition"
+msgid "Condition"
+msgstr "Состояние"
+
+msgctxt "Languages::destroyed"
+msgid "Destroyed"
+msgstr "Очень плохое"
+
+msgctxt "Languages::poor"
+msgid "Poor"
+msgstr "Плохое"
+
+msgctxt "Languages::good"
+msgid "Good"
+msgstr "Среднее"
+
+msgctxt "Languages::average"
+msgid "Average"
+msgstr "Хорошее"
+
+msgctxt "Languages::excellent"
+msgid "Excellent"
+msgstr "Отличное"
